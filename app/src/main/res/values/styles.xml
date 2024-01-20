@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="newTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+<!--        <item name="android:windowFullscreen">true</item>-->
+        <item name="android:windowBackground">@drawable/ic_launcher_background</item>
+    </style>
+
+    <style name="lineBoarder">
+        <item name="android:layout_height">2dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/lightGray</item>
+        <item name="android:layout_marginStart">30dp</item>
+        <item name="android:layout_marginEnd">30dp</item>
+    </style>
+
+
+
+</resources>

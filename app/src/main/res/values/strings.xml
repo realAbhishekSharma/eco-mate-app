@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EcoMate</string>
+
+    <string name="tipsTitle">Energy Saving Tactics</string>
+    <string name="tipsContent">1) Limit the use of:\n\ta)AC\n\tb)Refrigerator\n2)Try to use renewable energy sources as far as possible.</string>
+
+    <string name="crisisTitle">Near Future Energy Crisis</string>
+    <string name="crisisContent">At the current rate of consumption, oil will be the first fossil fuel to run out. According to projections, there would be between 40 and 60 years of proven reserves of conventional oil.</string>
+
+
+    <string name="projectTitle">Upcoming Projects</string>
+    <string name="projectContent">1) Fast track(Ktm-Terai)\n\t-Complete the journey in 1-2 hrs\n\t-start from khokana to destination Nijgadh\n\t-Reduce petrolum by 20%\n\t-completation time 5yrs but extented 3yrs\n\t-Initial budget 85 billions but later updated to 214 billions.\n\n2) Budhi-Gandaki hydropower project\n\t-Budget 2.59 billion\n\t-starting time 2071 BS\n\t-completion time 8 yrs\n\t-extended to 2084 BS\n\t-New budget 1 trillion.</string>
+
+
+    <string name="ApiURL">http://192.168.43.127:3000</string>
+</resources>
